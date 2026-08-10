@@ -1,0 +1,16 @@
+generated: '2026-08-09'
+method: probed
+source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
+hosts:
+- host: www.conxtech.com
+  https: true
+  tls_version: TLSv1.3
+  cert_expires: Nov  3 00:25:44 2026 GMT
+  hsts: false
+domains:
+- domain: conxtech.com
+  dnssec: true
+  caa: []
+  spf: true
+  dmarc: true
+  dmarc_policy: none
