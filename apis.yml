@@ -11,6 +11,17 @@ description: 'ConXtech is a Pleasanton, California structural steel subcontracto
   markets. It sells a physical building system, not software, and publishes no public
   developer program, API or machine-readable contract.'
 url: https://raw.githubusercontent.com/api-evangelist/conxtech/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://www.conxtech.com/wp-content/uploads/2022/02/Conxtech800x400.jpg
 x-type: company
 x-source: harvest:secondary-market
